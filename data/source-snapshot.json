@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "capturedAt": "2026-10-22T18:24:27.364Z",
+  "capturedAt": "2026-10-22T18:41:38.852Z",
   "baseUrl": "https://imbajobs.com",
   "candidateLimit": 30,
   "rowLimit": 20,
@@ -9,7 +9,7 @@
     {
       "repository": "Summer-2027-Internships-Sponsorship-Evidence",
       "url": "https://imbajobs.com/api/jobs?country=US&type=internship&q=summer+2027&sponsor=all&limit=30&page=1",
-      "fetchedAt": "2026-10-22T18:23:20.247Z",
+      "fetchedAt": "2026-10-22T18:41:18.343Z",
       "total": 2749,
       "candidates": [
         "pharmaceutical-lab-internship-crystallization-at-vardaspace-sc6i7l",
@@ -48,7 +48,7 @@
   "details": [
     {
       "url": "https://imbajobs.com/api/jobs/ai-software-intern-summer-2027-at-globalfoundries-8skubu",
-      "fetchedAt": "2026-10-22T18:23:34.216Z",
+      "fetchedAt": "2026-10-22T18:41:19.062Z",
       "job": {
         "id": "e7363416-7cfc-4431-8f4a-0b2486f32a9a",
         "slug": "ai-software-intern-summer-2027-at-globalfoundries-8skubu",
@@ -74,7 +74,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/corporate-audit-intern-summer-2027-at-northwestern-mutual-fcp3hu",
-      "fetchedAt": "2026-10-22T18:23:35.756Z",
+      "fetchedAt": "2026-10-22T18:41:19.745Z",
       "job": {
         "id": "f0a3f505-e55d-4773-adcc-50b2d2bc69fc",
         "slug": "corporate-audit-intern-summer-2027-at-northwestern-mutual-fcp3hu",
@@ -100,7 +100,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/dewalt-anf-engineering-intern-summer-2027-at-stanley-black-and-decker-dt6elb",
-      "fetchedAt": "2026-10-22T18:23:36.639Z",
+      "fetchedAt": "2026-10-22T18:41:20.439Z",
       "job": {
         "id": "d1e9b329-e324-41a6-9192-96cbd59c5946",
         "slug": "dewalt-anf-engineering-intern-summer-2027-at-stanley-black-and-decker-dt6elb",
@@ -135,7 +135,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/end-user-support-co-op-spring-summer-2027-at-rtx-0umk40",
-      "fetchedAt": "2026-10-22T18:23:38.275Z",
+      "fetchedAt": "2026-10-22T18:41:21.125Z",
       "job": {
         "id": "b584365f-260d-4a45-b569-7c2a98247b6d",
         "slug": "end-user-support-co-op-spring-summer-2027-at-rtx-0umk40",
@@ -161,7 +161,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/failure-analysis-engineering-intern-summer-2027-at-globalfoundries-99goaq",
-      "fetchedAt": "2026-10-22T18:23:40.476Z",
+      "fetchedAt": "2026-10-22T18:41:21.836Z",
       "job": {
         "id": "ea2780ae-2e60-42d7-9ea6-a60738880b2d",
         "slug": "failure-analysis-engineering-intern-summer-2027-at-globalfoundries-99goaq",
@@ -187,7 +187,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/ge-vernova-wind-sourcing-internship-summer-2027-at-ge-vernova-xb4jzv",
-      "fetchedAt": "2026-10-22T18:23:48.859Z",
+      "fetchedAt": "2026-10-22T18:41:22.524Z",
       "job": {
         "id": "e6f5710d-4ee4-4f0f-8a50-5e397f70c438",
         "slug": "ge-vernova-wind-sourcing-internship-summer-2027-at-ge-vernova-xb4jzv",
@@ -213,7 +213,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/hub-international-internship-program-summer-at-hub-international-4mzr87",
-      "fetchedAt": "2026-10-22T18:23:50.333Z",
+      "fetchedAt": "2026-10-22T18:41:23.207Z",
       "job": {
         "id": "fceab735-1296-490d-9c1d-dd060d29210f",
         "slug": "hub-international-internship-program-summer-at-hub-international-4mzr87",
@@ -239,7 +239,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/hub-international-internship-program-summer-at-hub-international-7he0wa",
-      "fetchedAt": "2026-10-22T18:23:51.053Z",
+      "fetchedAt": "2026-10-22T18:41:23.897Z",
       "job": {
         "id": "b2406ca2-6ee0-4d1a-a717-55e577a3b257",
         "slug": "hub-international-internship-program-summer-at-hub-international-7he0wa",
@@ -265,7 +265,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/hub-international-internship-program-summer-at-hub-international-hvqn8g",
-      "fetchedAt": "2026-10-22T18:23:51.812Z",
+      "fetchedAt": "2026-10-22T18:41:24.611Z",
       "job": {
         "id": "f57188e2-734e-4ddc-b071-a1f07f4ba87a",
         "slug": "hub-international-internship-program-summer-at-hub-international-hvqn8g",
@@ -291,7 +291,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/industrial-engineering-intern-summer-2027-at-globalfoundries-k01o5k",
-      "fetchedAt": "2026-10-22T18:23:52.530Z",
+      "fetchedAt": "2026-10-22T18:41:25.274Z",
       "job": {
         "id": "d2f79276-882d-4c73-9c99-597a2815540b",
         "slug": "industrial-engineering-intern-summer-2027-at-globalfoundries-k01o5k",
@@ -317,7 +317,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/intern-commercial-tradable-products-investment-at-commerce-bank-patzfn",
-      "fetchedAt": "2026-10-22T18:23:53.285Z",
+      "fetchedAt": "2026-10-22T18:41:25.946Z",
       "job": {
         "id": "adc685c5-7070-4585-964b-41de6a2d1882",
         "slug": "intern-commercial-tradable-products-investment-at-commerce-bank-patzfn",
@@ -352,7 +352,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/manufacturing-electrical-engineer-co-op-spring-at-rtx-jtyqva",
-      "fetchedAt": "2026-10-22T18:23:56.184Z",
+      "fetchedAt": "2026-10-22T18:41:26.627Z",
       "job": {
         "id": "f66d40bb-d72a-41b6-afb2-fa0e134e446c",
         "slug": "manufacturing-electrical-engineer-co-op-spring-at-rtx-jtyqva",
@@ -378,7 +378,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/manufacturing-supply-chain-intern-westville-ok-at-abb-micu46",
-      "fetchedAt": "2026-10-22T18:23:57.672Z",
+      "fetchedAt": "2026-10-22T18:41:27.312Z",
       "job": {
         "id": "e483070e-307d-4239-b582-8eecea0cbc4d",
         "slug": "manufacturing-supply-chain-intern-westville-ok-at-abb-micu46",
@@ -413,7 +413,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/mba-product-management-internship-summer-2027-at-gofundme-dowj7a",
-      "fetchedAt": "2026-10-22T18:23:59.084Z",
+      "fetchedAt": "2026-10-22T18:41:27.990Z",
       "job": {
         "id": "9fda7892-ffb3-4765-8e86-4044f886e63f",
         "slug": "mba-product-management-internship-summer-2027-at-gofundme-dowj7a",
@@ -448,7 +448,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/packaging-engineering-intern-summer-2027-at-stanley-black-and-decker-i4mmfm",
-      "fetchedAt": "2026-10-22T18:23:59.782Z",
+      "fetchedAt": "2026-10-22T18:41:28.654Z",
       "job": {
         "id": "cc5874de-0ac8-4a0e-8a4f-918f443120ba",
         "slug": "packaging-engineering-intern-summer-2027-at-stanley-black-and-decker-i4mmfm",
@@ -483,7 +483,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/pharmaceutical-lab-internship-crystallization-at-vardaspace-sc6i7l",
-      "fetchedAt": "2026-10-22T18:24:00.494Z",
+      "fetchedAt": "2026-10-22T18:41:29.320Z",
       "job": {
         "id": "4bf4ee14-bb54-4c33-830c-cee8d0f72dcc",
         "slug": "pharmaceutical-lab-internship-crystallization-at-vardaspace-sc6i7l",
@@ -509,7 +509,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/power-bi-intern-summer-2027-at-abb-xpm892",
-      "fetchedAt": "2026-10-22T18:24:01.895Z",
+      "fetchedAt": "2026-10-22T18:41:29.993Z",
       "job": {
         "id": "c2f2959c-1536-4ac8-b363-c87810ecc7b2",
         "slug": "power-bi-intern-summer-2027-at-abb-xpm892",
@@ -544,7 +544,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/product-management-mba-intern-gaming-content-at-nvidia-b62zba",
-      "fetchedAt": "2026-10-22T18:24:04.727Z",
+      "fetchedAt": "2026-10-22T18:41:30.664Z",
       "job": {
         "id": "af1e9627-119e-4eac-b389-a762c8820614",
         "slug": "product-management-mba-intern-gaming-content-at-nvidia-b62zba",
@@ -579,7 +579,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/research-intern-summer-2027-at-wisdomtree-dvs86x",
-      "fetchedAt": "2026-10-22T18:24:08.964Z",
+      "fetchedAt": "2026-10-22T18:41:31.363Z",
       "job": {
         "id": "9fbb17a4-15b7-40e2-8feb-cb902a8c25cb",
         "slug": "research-intern-summer-2027-at-wisdomtree-dvs86x",
@@ -605,7 +605,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/silicon-validation-intern-bs-summer-2027-at-marvell-jdad4b",
-      "fetchedAt": "2026-10-22T18:24:14.645Z",
+      "fetchedAt": "2026-10-22T18:41:32.039Z",
       "job": {
         "id": "b6142a5d-525c-4e30-9307-9b256cc631a6",
         "slug": "silicon-validation-intern-bs-summer-2027-at-marvell-jdad4b",
@@ -631,7 +631,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/software-engineering-co-op-spring-summer-2027-at-rtx-wn9hhs",
-      "fetchedAt": "2026-10-22T18:24:15.339Z",
+      "fetchedAt": "2026-10-22T18:41:32.718Z",
       "job": {
         "id": "c0ccb521-82cc-4085-a715-74552fc450e2",
         "slug": "software-engineering-co-op-spring-summer-2027-at-rtx-wn9hhs",
@@ -657,7 +657,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/software-engineering-intern-cloud-platform-at-globalfoundries-gygmzs",
-      "fetchedAt": "2026-10-22T18:24:16.042Z",
+      "fetchedAt": "2026-10-22T18:41:33.395Z",
       "job": {
         "id": "e046006f-41c6-438e-acdf-83390c1c4dff",
         "slug": "software-engineering-intern-cloud-platform-at-globalfoundries-gygmzs",
@@ -683,7 +683,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/software-engineering-intern-summer-2027-at-crusoe-g3yitu",
-      "fetchedAt": "2026-10-22T18:24:16.733Z",
+      "fetchedAt": "2026-10-22T18:41:34.074Z",
       "job": {
         "id": "0333ee56-cd63-48eb-986e-cccc2f61ce2c",
         "slug": "software-engineering-intern-summer-2027-at-crusoe-g3yitu",
@@ -718,7 +718,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/software-engineering-intern-summer-2027-at-rtx-ksqskl",
-      "fetchedAt": "2026-10-22T18:24:17.436Z",
+      "fetchedAt": "2026-10-22T18:41:34.750Z",
       "job": {
         "id": "8e4bca9e-efc3-41ba-810e-23a23136ee1a",
         "slug": "software-engineering-intern-summer-2027-at-rtx-ksqskl",
@@ -744,7 +744,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/solutions-analyst-intern-summer-2027-at-uber-freight-3bcbby",
-      "fetchedAt": "2026-10-22T18:24:18.129Z",
+      "fetchedAt": "2026-10-22T18:41:35.449Z",
       "job": {
         "id": "28cd5118-8bd4-4181-be08-34faceea99b4",
         "slug": "solutions-analyst-intern-summer-2027-at-uber-freight-3bcbby",
@@ -779,7 +779,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/summer-2027-data-science-intern-r6324-at-shieldai-3jazrw",
-      "fetchedAt": "2026-10-22T18:24:21.687Z",
+      "fetchedAt": "2026-10-22T18:41:36.126Z",
       "job": {
         "id": "c9b7a88c-367e-4a73-aef2-77923ea77ebb",
         "slug": "summer-2027-data-science-intern-r6324-at-shieldai-3jazrw",
@@ -814,7 +814,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/summer-2027-mars-royal-canin-health-safety-and-at-mars-g8qbv2",
-      "fetchedAt": "2026-10-22T18:24:23.088Z",
+      "fetchedAt": "2026-10-22T18:41:36.799Z",
       "job": {
         "id": "c0ceb846-dd0d-40a5-8bae-5c298af154eb",
         "slug": "summer-2027-mars-royal-canin-health-safety-and-at-mars-g8qbv2",
@@ -849,7 +849,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/summer-2027-royal-canin-petcare-engineering-at-mars-is2h9w",
-      "fetchedAt": "2026-10-22T18:24:23.798Z",
+      "fetchedAt": "2026-10-22T18:41:37.485Z",
       "job": {
         "id": "edfd9075-b43a-4206-9614-fb5fd35ba086",
         "slug": "summer-2027-royal-canin-petcare-engineering-at-mars-is2h9w",
@@ -884,7 +884,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/supply-chain-internship-program-summer-2027-at-the-campbell-s-rv70s0",
-      "fetchedAt": "2026-10-22T18:24:24.522Z",
+      "fetchedAt": "2026-10-22T18:41:38.172Z",
       "job": {
         "id": "ee8e0547-7423-4797-91c9-055fdd9db21f",
         "slug": "supply-chain-internship-program-summer-2027-at-the-campbell-s-rv70s0",
@@ -910,7 +910,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/utility-coordination-intern-summer-2027-at-stv-fw8dv4",
-      "fetchedAt": "2026-10-22T18:24:27.363Z",
+      "fetchedAt": "2026-10-22T18:41:38.852Z",
       "job": {
         "id": "ea0c32c9-7088-4227-b161-1d6f3652f9b7",
         "slug": "utility-coordination-intern-summer-2027-at-stv-fw8dv4",

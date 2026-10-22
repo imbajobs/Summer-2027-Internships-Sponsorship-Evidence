@@ -2,9 +2,9 @@
 
 Maintained from Imba Jobs public data. Board: free, no account required. / 来源：Imba Jobs 公开岗位数据，免费浏览。
 
-Snapshot / 数据快照: **2026-10-22T18:24:27.364Z** (UTC). US roles only / 仅美国岗位。
+Snapshot / 数据快照: **2026-10-22T18:41:38.852Z** (UTC). US roles only / 仅美国岗位。
 
-Local snapshot; automatic daily refresh is not active. / 本文件为本地快照，尚未启用每日自动更新。
+Refreshed by GitHub Actions; a daily schedule is configured. / 已由 GitHub Actions 更新，并已配置每日更新计划。
 
 Requires an internship classification and explicit Summer 2027 text; this is the internship season, not the graduation year.
 
@@ -48,7 +48,7 @@ API search matches title/company, not description; cohort checks use the capture
 
 ## Sources and method / 来源与方法
 
-- [Public search](<https://imbajobs.com/api/jobs?country=US&type=internship&q=summer+2027&sponsor=all&limit=30&page=1>) retrieved 2026-10-22T18:23:20.247Z; total is the API search count at retrieval, not a count of validated jobs.
+- [Public search](<https://imbajobs.com/api/jobs?country=US&type=internship&q=summer+2027&sponsor=all&limit=30&page=1>) retrieved 2026-10-22T18:41:18.343Z; total is the API search count at retrieval, not a count of validated jobs.
 - Each row's public detail API (/api/jobs/SLUG) was retrieved within this snapshot; exact retrieval timestamps and descriptions are in the accompanying source snapshot when distributed.
 - [USCIS H-1B Employer Data Hub](https://www.uscis.gov/tools/reports-and-studies/h-1b-employer-data-hub), via Imba's matched employer record. No fresh USCIS lookup was performed. Public API does not expose the history import date; snapshot date is not a USCIS data update date.
 - Job links use utm_source=github, utm_medium=list, utm_campaign=Summer-2027-Internships-Sponsorship-Evidence.
