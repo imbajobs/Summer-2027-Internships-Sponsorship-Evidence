@@ -1,0 +1,13 @@
+{
+  "repository": "Summer-2027-Internships-Sponsorship-Evidence",
+  "runtime": "Node.js 24",
+  "runtimeNpmInstallRequired": false,
+  "bundledDependencies": {
+    "zod": "4.6.7"
+  },
+  "buildTool": {
+    "esbuild": "0.25.12"
+  },
+  "bundleSha256": "9ce0121e17381b7f49da0d51ae30bd4f4031515262fcc128678db3882a39dc19",
+  "sourceAdaptation": "Checked generator and collector; repository constant restricted to this repo; shared taxonomy constants copied verbatim."
+}
