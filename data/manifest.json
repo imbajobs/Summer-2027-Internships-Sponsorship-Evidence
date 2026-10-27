@@ -1,13 +1,13 @@
 {
   "version": 1,
   "repository": "Summer-2027-Internships-Sponsorship-Evidence",
-  "capturedAt": "2026-10-26T19:32:03.492Z",
+  "capturedAt": "2026-10-27T18:56:03.293Z",
   "inspected": 30,
-  "eligible": 28,
+  "eligible": 22,
   "rows": 20,
   "excluded": {
-    "unsupported_posting_polarity": 2
+    "unsupported_posting_polarity": 8
   },
-  "sourceSha256": "474bacf1644cb1d23c3eaecacf93198431400cb0987d3870773568a58c329856",
-  "readmeSha256": "5f6d72459ec44ce4aeb9131ef9f2ba5abb398bec52bd16a1bacf26f21a0dd5a8"
+  "sourceSha256": "a4653dbdc7fd9ee104e2df51a16c4ae638e9b884e58fae04b9fb375e56e5b6bd",
+  "readmeSha256": "5c8bdce753cb4c3f08314b5f78b413a67dead876d8f630a16ee6c62249e1dd63"
 }
